@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mihir.
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning Javascript.
+- 👀 I’m a Backend Developer.
+- 🌱 I’m currently learning Django.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
