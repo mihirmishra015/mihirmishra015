@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Mihir.
-- 👀 I’m a Backend Developer.
-- 🌱 I’m currently learning Django.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+*Mihir Mishra*
+
+Just a guy looking to make my developer workflow more awesome, build performant projects, understand memory, and ultimately craft really awesome software.
 
 <!---
 mihirmishra015/mihirmishra015 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
